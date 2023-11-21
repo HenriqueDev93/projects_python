@@ -14,18 +14,23 @@ Fique à vontade para dar sugestões ou *feedbacks* sobre os projetos desenvolvi
 
 #### Alguns dos sites utilizados para correção de *bugs* ou consultas:
 
-- <a href="https://docs.python.org/3/" target="_blank">Python Docs</a>
-- <a href="https://stackoverflow.com/" target="_blank">Stack Overflow (en)</a>
-- <a href="https://pt.meta.stackoverflow.com/" target="_blank">Stack Overflow (pt-br)</a>
-- <a href="https://plotly.com/python/" target="_blank">Plotly Python Docs</a>
-- <a href="https://developer.mozilla.org/pt-BR/" target="_blank">MDN Web Docs</a>
-- <a href="https://www.w3schools.com/" target="_blank">W3Schools</a>
-- <a href="https://pypi.org/" target="_blank">PyPI</a>
-- <a href="https://medium.com/" target="_blank">Medium</a>
-- <a href="https://www.hashtagtreinamentos.com/blog" target="_blank">Hashtag Treinamentos</a>
-- <a href="https://pandas.pydata.org/docs/" target="_blank">Pandas docs</a>
-- <a href="https://docs.awesomeapi.com.br/" target="_blank">AwesomeAPI</a>
+- [Python Docs](https://docs.python.org/3/)
+- [Stack Overflow (en)](https://stackoverflow.com/)
+- [Stack Overflow (pt-br)](https://pt.meta.stackoverflow.com/)
+- [Plotly Python Docs](https://plotly.com/python/)
+- [MDN Web Docs](https://developer.mozilla.org/pt-BR/)
+- [W3Schools](https://www.w3schools.com/)
+- [PyPI](https://pypi.org/)
+- [Medium](https://medium.com/)
+- [Hashtag Treinamentos](https://www.hashtagtreinamentos.com/blog)
+- [Pandas docs](https://pandas.pydata.org/docs/)
 
-**Visite meu <a href="https://www.linkedin.com/in/henrique8825/" target="_blank">LinkedIn 😊</a>**
+#### <abbr title="Application Programming Interface (Interface de Programação de Aplicação)">*API*</abbr>*s* de terceiros:
+
+- [AwesomeAPI](https://docs.awesomeapi.com.br/)
+- [GoogleNews](https://news.google.com/)
+- [Weather API](https://openweathermap.org/api)
+
+**Visite meu [LinkedIn 😊](https://www.linkedin.com/in/henrique8825/)**
 
 <q> Cada sonho que você deixa pra trás, é um pedaço do seu futuro que deixa de existir.</q> *Steve Jobs*
