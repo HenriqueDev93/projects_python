@@ -1,4 +1,4 @@
-# Calculadora de <abbr title="Índice de Massa Corporal">IMC</abbr>
+<h1><img src="https://png.pngtree.com/png-vector/20220607/ourmid/pngtree-bathroom-scales-scale-balance-fitness-png-image_4907493.png" width="60px" align="center"> Calculadora de <abbr title="Índice de Massa Corporal">IMC</abbr></h1>
 
 Neste projeto, desenvolvido com Python puro, podemos calcular, de forma simples, o IMC do usuário, recebendo uma resposta de como está, possivelmente, a saúde do mesmo.
 

@@ -1,4 +1,4 @@
-# Sorteador de números
+<h1><img src="https://cdn-icons-png.flaticon.com/512/5736/5736412.png" width="50px" align="center"> Sorteador de números</h1>
 
 Um projeto desenvolvido para trazer um número randômico em uma faixa especificada pelo usuário, mesmo que o primeiro número seja maior do que o segundo.
 

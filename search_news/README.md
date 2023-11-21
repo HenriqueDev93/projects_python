@@ -1,4 +1,4 @@
-<h1><img src="https://assets.stickpng.com/images/5a0acb755a997e1c2cea10be.png" align="center" width="70px">Buscador de notícias</h1>
+<h1><img src="https://burles.co/logo_semfundo.png" align="center" width="40px"> Buscador de notícias</h1>
 
 Projeto desenvolvido via <abbr title="Application Programming Interface (Interface de Programação de Aplicação)">*API*</abbr>, que busca, automaticamente, notícias no [GoogleNews](https://news.google.com/) de acordo com o termo infomado pelo usuário.
 
